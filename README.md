@@ -57,7 +57,7 @@ This repository provides a cross-platform (ROS1/ROS2) interface and toolkit for 
 - C++14 or later
 - [nlohmann/json](https://github.com/nlohmann/json) (auto-fetched in CMake)
 - Placo, Eigen, TF2, and other dependencies (see CMakeLists.txt and package.xml)
-- PicoXR Robot SDK (expected at `/opt/apps/roboticsservice/SDK`)
+- [PicoXR Robot SDK](https://github.com/XR-Robotics/XRoboToolkit-PC-Service/releases/tag/v1.0.0) (expected at `/opt/apps/roboticsservice/SDK`)
 
 ### Example install for ROS2 Foxy
 
